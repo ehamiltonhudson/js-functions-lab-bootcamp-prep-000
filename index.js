@@ -8,7 +8,5 @@ function happyHolidaysTo(string) {
   }
 
 function happyHolidayTo(string) {
-  var holiday = 'Independence Day'
-    if (string === string.holiday) {
-    return('Happy Independence Day, you!'); }
+    return `${"Happy"} ${"Independence Day"}, ${"you"}!`
 }
