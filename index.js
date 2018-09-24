@@ -8,7 +8,8 @@ function happyHolidaysTo(string) {
   }
 
 function happyHolidayTo(string) {
-    return `${"Happy"} ${"Independence Day"}, ${"you"}!`
+    console.log `"Happy ${"holiday"}", ${"name"}!`
+    return ('Happy Independence Day, you!')
 }
 
 function holidayCountdown(string) {
