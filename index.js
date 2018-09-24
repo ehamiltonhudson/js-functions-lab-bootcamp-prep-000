@@ -3,8 +3,8 @@ function happyHolidays(string) {
     return `${"Happy holidays!"}`
   }
 
-function sayhappyHolidaysTo(name) {
+function sayhappyHolidaysTo(string) {
     return "Happy holidays, ${name}!"
-  if (name === you) {
+  if (string === name) {
     return ('Happy holidays, you!'); }
 }
