@@ -2,6 +2,3 @@
 function happyHolidays(string) {
     return `${"Happy holidays!"}`
   }
-
-function sayhappyHolidaysTo(name) {
-    return `${"Happy holidays to"}, ${"you"}!`
